@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\bin\Debug\Arsh.exe.config
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\bin\Debug\Arsh.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\bin\Debug\Arsh.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\obj\Debug\Arsh.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\obj\Debug\Arsh.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\obj\Debug\Arsh.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\obj\Debug\Arsh.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\obj\Debug\Arsh.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\obj\Debug\Arsh.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\Arsh\Arsh\obj\Debug\Arsh.pdb
