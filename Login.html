@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration/Login</title>
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<header class="head1">
+	<div class="main">
+		<div class="logo">
+			<img src="image/logo.png">
+		</div>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Support</a></li>
+		</ul>
+		<div class="login-page">
+			<div class="form">
+				<form class="login-form" name="myform" action="gallery.html" method="post">
+					<input type="text" name="fname" autofocus required placeholder="user name"/>
+					<input type="password" name="fname" required placeholder="password"/>
+                    <a href="gallery.html" type="login"><button>login</button></a>
+				</form>
+			</div>
+		</div>
+	</div>
+</header>
+
+<script src='https://code.jquery.com/jquery-3.3.1.min.js
+'></script>
+
+<script type="text/javascript">
+	$('.message a').click(function(){
+		$('form').animate({height: "toggle", opacity:"toggle"},"slow");
+	});
+</script>
+
+</body>
+</html>
